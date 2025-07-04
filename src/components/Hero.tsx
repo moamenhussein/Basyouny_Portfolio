@@ -42,7 +42,7 @@ export const Hero: React.FC = () => {
               </div>
               <div className="flex items-center space-x-3 text-gray-600 dark:text-gray-300">
                 <Linkedin className="w-5 h-5 text-blue-600 dark:text-blue-400" />
-                <span>LinkedIn Profile</span>
+                <a href="#">LinkedIn Profile</a>
               </div>
             </div>
 
