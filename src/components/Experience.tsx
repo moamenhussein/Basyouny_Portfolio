@@ -16,7 +16,7 @@ const experiences: ExperienceItem[] = [
     company: " Power Transmission line Contract Company",
     period: " APRIL 2025- PRESEN",
     location: "Al Riyadh, Saudi Arabia",
-    project: "Deployment Of Hybrid PV And Diesel Power Plants With Storage, NEOM - BAJDAH. Jinkly Solar",
+    project: "Deployment Of Hybrid PV And Diesel Power Plants With Storage, NEOM - BAJDAH. Astronergy Solar",
      responsibilities: [
       " Led and supervised the successful completion of all mechanical tasks, including tracker installation, modules installation, and robot assembly, ensuring high standards of precision and efficiency.",
       " Supervised and ensured the successful execution of all electrical works on-site, including the installation and termination of solar cables, low voltage (LV), and medium voltage (MV) power cables, in full compliance with project specifications and safety standards ",
