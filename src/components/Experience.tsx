@@ -13,6 +13,20 @@ interface ExperienceItem {
 const experiences: ExperienceItem[] = [
   {
     title: "Senior Electromechanical Engineer",
+    company: " Power Transmission line Contract Company",
+    period: " APRIL 2025- PRESEN",
+    location: "Al Riyadh, Saudi Arabia",
+    project: "Deployment Of Hybrid PV And Diesel Power Plants With Storage, NEOM - BAJDAH. Jinkly Solar",
+     responsibilities: [
+      " Led and supervised the successful completion of all mechanical tasks, including tracker installation, modules installation, and robot assembly, ensuring high standards of precision and efficiency.",
+      " Supervised and ensured the successful execution of all electrical works on-site, including the installation and termination of solar cables, low voltage (LV), and medium voltage (MV) power cables, in full compliance with project specifications and safety standards ",
+      "Negotiating the project issues with the main contractors and finding solutions to the problems at site.",
+      "Activity Planning and Calculating the manpower, material required and duration . ",
+       "Conducted all required testing and commissioning for electrical systems to verify functionality, safety, and compliance with project specifications and industry standards. "
+    ]
+  },
+  {
+    title: "Senior Electromechanical Engineer",
     company: "Power Transmission line Contract Company",
     period: "JUNE 2024 - PRESENT",
     location: "Al Riyadh, Saudi Arabia",
